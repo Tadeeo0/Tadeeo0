@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Tadeo! 🧑🏽‍💻</h1>
----
+
 
 ### 🧠 About Me
 - Passionate about software development and technology.
@@ -33,15 +33,16 @@
   <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sqlite&logoColor=white"/>
 </p>
 
-## U Office – Productivity & General Skills
+## Productivity & General Skills
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
----
+
 
 ### 📊 GitHub Stats
 ![Tadeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tadeeo0&show_icons=true&theme=radical)
 
----
+
 
 ### 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-tadeo-58542a246//)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/523312110691)
