@@ -3,7 +3,7 @@
 
 ### 🧠 About Me
 - Passionate about software development and technology.
-- Currently working with *HTML, *Python*, *React* and *Flask*.
+- Currently working with *HTML, *Python*, *React Native* and *Flask*.
 - Interested in clean code and learning new frameworks.
 
 ---
