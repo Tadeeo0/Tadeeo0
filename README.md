@@ -4,7 +4,7 @@
 ### 🧠 About Me
 - Passionate about software development and technology.
 - Currently working with *JAVA*, *C*, *Flask* and *Python*.
-- Interested in clean code and learning new frameworks.
+- Interested in learning new frameworks and networking.
 
 ---
 
