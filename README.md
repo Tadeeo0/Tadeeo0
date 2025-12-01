@@ -39,7 +39,7 @@
 
 ## Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tadeeo0&layout=donut&langs_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Tadeeo0&layout=donut&langs_count=8&theme=react)
 
 
 ### 🔗 Connect With Me
